@@ -48,9 +48,9 @@ fresh/
 
 │   ├── requirements.txt # Python dependencies
 
-│   ├── README.md # This file
+└── 
 
-└──   
+├── README.md # This file
 
 ---
 
