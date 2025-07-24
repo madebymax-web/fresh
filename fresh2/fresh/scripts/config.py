@@ -1,0 +1,5 @@
+RAW_BASE = r"c:\Users\WavTranscribe\Desktop\fresh\data\raw"
+PROCESSED_BASE = r"c:\Users\WavTranscribe\Desktop\fresh\data\processed"
+CORRECTION_FILE = r"c:\Users\WavTranscribe\Desktop\fresh\scripts\Newcorrections.json"
+MODEL_NAME = "base"
+ARCHIVE_BASE = r"C:\Users\WavTranscribe\Desktop\fresh\data\archive"
